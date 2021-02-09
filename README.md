@@ -17,5 +17,11 @@ garis lurus. Bisa secara horizontal maupun vertical.
 ### Constraint Layout
 > - [x] Penataan Objek seperti pada Relative Layout. Namun, lebih fleksibel karena dapat diedit menggunakan Editor Layout pada Android Studio.
 
+## method onCreate dan onPause pada activity.
+
+### onCreate
+> - [x] Ketika sebuah activity dibuat, pada method inilah kita melakukan inisialisasi seperti create view, list data, dan lain-lain.
+### onPause
+> - [x] Ketika sebuah activity lainnya dipanggil atau dimulai, Y onResume() method ini digunakan ketika data tidak harus disimpan or onStop() kedalam system secara permanen.
 
 ### Sekian Terima Kasih :)
