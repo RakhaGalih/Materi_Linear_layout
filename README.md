@@ -11,7 +11,11 @@ garis lurus. Bisa secara horizontal maupun vertical.
 ##  perbedaan linear layout, relative layout, dan constraint layout.
 
 ### Linear Layout
-> - [x] Penataan Objek 
+> - [x] Penataan Objek menggunakan kolom dan baris yang dapat disusun secara vertikal maupun horizontal.
+### Relative Layout
+> - [x] Penataan Objek bersifat relatif atau bergantung kepada view yang lain. Jadi kita dapat meletakkan dimana saja mau di sisi kanan, kiri, atas, ataupun bawah dari objek lain sesuka hati kita.
+### Constraint Layout
+> - [x] Penataan Objek seperti pada Relative Layout. Namun, lebih fleksibel karena dapat diedit menggunakan Editor Layout pada Android Studio.
 
 
 ### Sekian Terima Kasih :)
