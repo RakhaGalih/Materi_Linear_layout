@@ -19,6 +19,8 @@ garis lurus. Bisa secara horizontal maupun vertical.
 
 ## method onCreate dan onPause pada activity.
 
+> ![activityCycle](https://user-images.githubusercontent.com/54633534/107361786-7ca58780-6b0a-11eb-972d-d906b0ae460b.jpg)
+
 ### onCreate
 > - [x] Ketika sebuah activity dibuat, pada method inilah kita melakukan inisialisasi seperti create view, list data, dan lain-lain.
 ### onPause
