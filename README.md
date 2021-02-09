@@ -8,7 +8,7 @@ garis lurus. Bisa secara horizontal maupun vertical.
 > ![p1](https://user-images.githubusercontent.com/54633534/107318497-7cd46180-6acf-11eb-8b78-bc70f5f591e5.jpg)
 
 # Pembahasan Soal
-##  perbedaan linear layout, relative layout, dan constraint layout.
+##  Perbedaan linear layout, relative layout, dan constraint layout.
 
 ### Linear Layout
 > - [x] Penataan Objek menggunakan kolom dan baris yang dapat disusun secara vertikal maupun horizontal.
@@ -17,7 +17,7 @@ garis lurus. Bisa secara horizontal maupun vertical.
 ### Constraint Layout
 > - [x] Penataan Objek seperti pada Relative Layout. Namun, lebih fleksibel karena dapat diedit menggunakan Editor Layout pada Android Studio.
 
-## method onCreate dan onPause pada activity.
+## Method onCreate dan onPause pada activity.
 
 > ![activityCycle](https://user-images.githubusercontent.com/54633534/107361786-7ca58780-6b0a-11eb-972d-d906b0ae460b.jpg)
 
